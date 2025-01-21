@@ -1,0 +1,11 @@
+# Ignorar archivos de configuración y dependencias del sistema
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Ignorar configuraciones específicas del editor
+.vscode/
+
+# Ignorar archivos de compilación
+dist/
+build/
